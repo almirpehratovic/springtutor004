@@ -2,7 +2,7 @@
 ## Preface
 This is example of handling exceptions in Spring MVC. Tutorial can be found at 
 
-https://springtutor.wordpress.com
+https://springtutor.wordpress.com/2015/10/02/exception-handling-in-spring-mvc-and-controlleradvice/
 
 ## Getting Started
 
